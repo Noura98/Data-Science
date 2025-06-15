@@ -29,11 +29,3 @@ The machine learning pipeline includes:
 The model is trained and saved as `churn_model.pkl`.
 
 ---
-
-## 🚀 How to Run the App Locally
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/churn-prediction-app.git
-cd churn-prediction-app
